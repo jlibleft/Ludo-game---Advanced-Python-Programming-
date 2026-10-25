@@ -1,0 +1,6 @@
+# Config file
+name = "Ludo game"
+version = "1.0.0"
+dependencies = [
+    "pytest >= 8.4.1"
+]
